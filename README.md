@@ -228,7 +228,7 @@ On getting to my SOC host System, here's how troubleshooting went:
 4. I then tried to ping 192.168.42.103 again, and finally, it worked!
   
 <figure>
-  <img src="https://github.com/TeeLaReina/Splunk-Web-Access-Issue-Troubleshooting/blob/main/Images/use-a-breakdown-of-the-commandds-i-used-to-resolve-the-ssh-into-splunk-ubuntu-server-issue.png" alt="https://github.com/TeeLaReina/Splunk-Web-Access-Issue-Troubleshooting/blob/main/Images/use-a-breakdown-of-the-commandds-i-used-to-resolve-the-ssh-into-splunk-ubuntu-server-issue.png" style="width: 50%; height: auto;">
+  <img src="https://github.com/TeeLaReina/Splunk-Web-Access-Issue-Troubleshooting/blob/main/Images/use-a-breakdown-of-the-commandds-i-used-to-resolve-the-ssh-into-splunk-ubuntu-server-issue-1.png" alt="https://github.com/TeeLaReina/Splunk-Web-Access-Issue-Troubleshooting/blob/main/Images/use-a-breakdown-of-the-commandds-i-used-to-resolve-the-ssh-into-splunk-ubuntu-server-issue-1.png" style="width: 50%; height: auto;">
   </img>
   <figcaption>
     <sub>The commands I used to resolve the SSH issue</sub>
