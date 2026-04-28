@@ -38,11 +38,11 @@ This project documents how I investigated and resolved that issue so let's get i
 Splunk was installed and running on the Ubuntu Server, but:
 - I could not access Splunk Web from my browser
 - SSH access was inconsistent
-- I could ping some systems but still couldn’t reach services
-- Sometimes access only worked when I changed network interfaces manually
+- I could ping some systems, but still couldn’t reach services
+- Sometimes, access only worked when I changed network interfaces manually
 
 
-At first it looked like a Splunk problem nuy it turned out to be a networking and firewall problem.
+At first, it looked like a Splunk problem, but it turned out to be a networking and firewall problem.
 
 Actually… several of them.😅
 
